@@ -97,7 +97,6 @@ is intended to be executed locally on a Linux box to enumerate basic system info
  - [PrivEsc](https://github.com/1N3/PrivEsc): A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.
  - [pspy](https://github.com/DominicBreuker/pspy): unprivileged Linux process snooping
  - [traitor](https://github.com/liamg/traitor): Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
- - [unix-privesc-check](https://github.com/pentestmonkey/unix-privesc-check): Shell script to check for simple privilege escalation vectors on Unix systems
  - [Unix-Privilege-Escalation-Exploits-Pack](https://github.com/Kabot/Unix-Privilege-Escalation-Exploits-Pack): Exploits for getting local root on Linux, BSD, AIX, HP-UX, Solaris, RHEL, SUSE etc.
  - [uptux](https://github.com/initstring/uptux): Specialized privilege escalation checks for Linux systems.
 
